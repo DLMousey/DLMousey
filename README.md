@@ -1,4 +1,4 @@
-### Hi there 👋
+![If you're reading this, i specified the wrong file path, and you should open an issue informing me i am in fact, an idiot.](gh_profile_readme_banner.png)
 
 <!--
 **DLMousey/DLMousey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
